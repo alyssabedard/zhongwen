@@ -1,3 +1,8 @@
+.DS_Store
+parsers2/
+hanzi_sc.csv
+notes.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
